@@ -39,16 +39,6 @@ Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos 
 
 ---
 
-### 🏆 Conquistas
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Juvinho&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" width="100%" />
-  </a>
-</div>
-
----
-
 ### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
