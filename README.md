@@ -30,7 +30,7 @@
 
 Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos únicos. Não apenas escrevo código, mas construo narrativas e experiências. Atualmente estou focado em revolucionar a forma como interagimos online com a **Chrono**.
 
-- 🔭 Atualmente trabalhando na **Rede Social Chrono** e no **[DiagnostiCare](https://github.com/Juvinho/DiagnostiCare)**.
+- 🔭 Atualmente trabalhando na **[Rede Social Chrono](https://github.com/Juvinho/Chrono)** e no **[DiagnostiCare](https://github.com/Juvinho/DiagnostiCare)**.
 - 💡 Apaixonado por **IA Generativa**, **Growth Hacking** e **UX/UI**.
 - 🚀 Objetivo: Criar soluções que impactem milhões de usuários.
 - ⚡ Curiosidade: Eu transformo café em código e ideias em realidade.
@@ -88,14 +88,16 @@ Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos 
     </td>
     <td width="50%" align="center">
       <h3>⏳ Rede Social Chrono</h3>
-      <a href="https://github.com/Juvinho">
+      <a href="https://github.com/Juvinho/Chrono">
         <img src="https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148879890.jpg" width="100%" style="border-radius: 10px;" />
       </a>
       <br /><br />
       <p>
         Uma nova forma de conectar pessoas através do <strong>tempo</strong> e <strong>momentos</strong>.
         <br />
-        <img src="https://img.shields.io/badge/Status-Confidencial-red?style=flat-square" />
+        <a href="https://github.com/Juvinho/Chrono">
+          <img src="https://img.shields.io/badge/Ver_Projeto-Chrono-blue?style=for-the-badge&logo=github" />
+        </a>
       </p>
     </td>
   </tr>
