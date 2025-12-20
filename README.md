@@ -1,68 +1,111 @@
 ### Olá, eu sou o Juvinho! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Juvinho&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fazendo%20Marketing%20de%20um%20Jeito%20diferente&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Juvinho&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Fazendo%20Marketing%20de%20um%20Jeito%20Diferente&descAlignY=55&descAlign=60" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Juvinho">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Transformando+caf%C3%A9+em+c%C3%B3digo;Criando+solu%C3%A7%C3%B5es+com+React+e+IA;Focando+em+UX+e+Performance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=Transformando+Ideias+em+C%C3%B3digo;Criando+a+Rede+Social+Chrono;Especialista+em+React,+Marketing+e+IA;Focando+em+Experi%C3%AAncia+do+Usu%C3%A1rio" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Juvinho">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br />
 
-### 🚀 Sobre Mim
+### ⚡ Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Gosto de criar projetos que resolvem problemas reais e têm impacto na vida das pessoas. Atualmente estou focado em **React**, **TypeScript** e **Inteligência Artificial**.
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" />
 
-- 🔭 Atualmente trabalhando na **Rede Social Chrono**.
-- 🌱 Estudando novas arquiteturas de **Frontend** e **Cloud Computing**.
-- 💬 Me pergunte sobre **React, JS/TS e Desenvolvimento Web**.
+Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos únicos. Não apenas escrevo código, mas construo narrativas e experiências. Atualmente estou focado em revolucionar a forma como interagimos online com a **Chrono**.
+
+- 🔭 Atualmente trabalhando na **Rede Social Chrono** e no **[DiagnostiCare](https://github.com/Juvinho/DiagnostiCare)**.
+- 💡 Apaixonado por **IA Generativa**, **Growth Hacking** e **UX/UI**.
+- 🚀 Objetivo: Criar soluções que impactem milhões de usuários.
+- ⚡ Curiosidade: Eu transformo café em código e ideias em realidade.
+
+<br clear="all" />
 
 ---
 
-### 🛠️ Tech Stack
+### 🏆 Conquistas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,git,github,vscode,vite&perline=6" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Juvinho&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" width="100%" />
+  </a>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juvinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juvinho&layout=compact&theme=tokyonight"/>
+
+| **Frontend** | **Backend & Tools** | **Design & Marketing** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vite&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,firebase,git,github,docker,vercel&theme=dark" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,wordpress,analytics&theme=dark" /> |
+
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/Juvinho">
+    <img src="https://github-readme-stats.vercel.app/api?username=Juvinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
+  </a>
+  <a href="https://github.com/Juvinho">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juvinho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  </a>
 </div>
 
 <br />
 
-### 🏆 Projetos em Destaque
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juvinho&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+</div>
 
-<table>
+<br />
+
+### 🌟 Projetos em Destaque
+
+<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">🩺 DiagnostiCare</h3>
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/48/heart-health.png" width="50" />
-      </div>
-      <p align="center">
-        Uma plataforma inteligente que lê exames médicos e traduz para uma linguagem simples usando IA.
+    <td width="50%" align="center">
+      <h3>🩺 DiagnostiCare</h3>
+      <a href="https://github.com/Juvinho/DiagnostiCare">
+        <img src="https://img.freepik.com/free-vector/medical-healthcare-blue-background-with-cardiogram-line_1017-26838.jpg" width="100%" style="border-radius: 10px;" />
+      </a>
+      <br /><br />
+      <p>
+        Plataforma de <strong>IA Médica</strong> que traduz exames complexos para linguagem humana.
         <br />
-        <a href="https://github.com/Juvinho/DiagnostiCare"><strong>Ver Projeto »</strong></a>
+        <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=flat-square" />
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🚧 Em Breve</h3>
-      <div align="center">
-        <img src="https://img.icons8.com/fluency/48/code.png" width="50" />
-      </div>
-      <p align="center">
-        Mais projetos incríveis estão sendo desenvolvidos. Fique ligado!
+    <td width="50%" align="center">
+      <h3>⏳ Rede Social Chrono</h3>
+      <a href="https://github.com/Juvinho">
+        <img src="https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148879890.jpg" width="100%" style="border-radius: 10px;" />
+      </a>
+      <br /><br />
+      <p>
+        Uma nova forma de conectar pessoas através do <strong>tempo</strong> e <strong>momentos</strong>.
         <br />
-        <a href="https://github.com/Juvinho"><strong>Ver Perfil »</strong></a>
+        <img src="https://img.shields.io/badge/Status-Confidencial-red?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -71,5 +114,9 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Gosto de criar proj
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Juvinho&label=Profile%20Views&color=0e75b6&style=flat" alt="Juvinho" />
+  <img src="https://komarev.com/ghpvc/?username=Juvinho&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=7B68EE&style=for-the-badge" alt="Juvinho" />
+  <br /><br />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" />
+  <br />
+  <sub><i>"A melhor maneira de prever o futuro é criá-lo."</i></sub>
 </div>
