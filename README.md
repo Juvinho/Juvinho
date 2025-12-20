@@ -1,12 +1,12 @@
 ### Olá, eu sou o Juvinho! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Juvinho&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Juvinho&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fazendo%20Marketing%20de%20um%20Jeito%20diferente&descAlignY=55&descAlign=62" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Juvinho">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Transformando+caf%C3%A9+em+c%C3%B3digo;Criando+solu%C3%A7%C3%B5es+com+React+e+IA;Focando+em+UX+e+Performance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Transformando+caf%C3%A9+em+c%C3%B3digo;Criando+solu%C3%A7%C3%B5es+com+React+e+IA;Focando+em+UX+e+Performance" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Gosto de criar projetos que resolvem problemas reais e têm impacto na vida das pessoas. Atualmente estou focado em **React**, **TypeScript** e **Inteligência Artificial**.
 
-- 🔭 Atualmente trabalhando no **[DiagnostiCare](https://github.com/Juvinho/DiagnostiCare)** (Sistema de análise de exames com IA).
+- 🔭 Atualmente trabalhando na **Rede Social Chrono**.
 - 🌱 Estudando novas arquiteturas de **Frontend** e **Cloud Computing**.
 - 💬 Me pergunte sobre **React, JS/TS e Desenvolvimento Web**.
 
