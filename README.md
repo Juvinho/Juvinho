@@ -1,12 +1,14 @@
+﻿### Olá, eu sou o Juvinho! 👋
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:BD00FF,100:00F5FF&height=350&section=header&text=Juan%20Felipe&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Juvinho%20%E2%80%94%20Dev%20%7C%20Builder%20%7C%20Visionário&descSize=24&descAlignY=62&descAlign=50&stroke=BD00FF&strokeWidth=2.5" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,40:6B0000,100:FF2200&height=160&section=header&text=🔥%20JUVINHO%20🔥&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Desenvolvedor%20%7C%20Builder%20%7C%20Marketing&descSize=20&descAlignY=80&descAlign=50" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3500&pause=800&color=BD00FF&center=true&vCenter=true&width=750&height=55&lines=🚀+Construindo+a+Rede+Social+Chrono;🩺+Revolucionando+a+Saúde+com+IA;💜+Tecnologia+%2B+Marketing+%3D+Impacto;🎨+UX%2FUI+que+faz+o+usuário+viciado;⚡+Transformando+café+em+código+desde+sempre" alt="Typing SVG" />
+  <a href="https://github.com/Juvinho">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=700&color=FF3030&center=true&vCenter=true&width=820&height=55&lines=Transformando+Ideias+em+Código;Criando+a+Rede+Social+Chrono;Especialista+em+React%2C+Marketing+e+IA;Focando+em+Experiência+do+Usuário;Desenvolvedor+que+pensa+como+Designer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,204 +16,120 @@
 
 <div align="center">
   <a href="https://github.com/Juvinho">
-    <img src="https://img.shields.io/badge/─────%20GitHub%20─────-0D1117?style=for-the-badge&logo=github&logoColor=BD00FF&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/GitHub-0D0000?style=for-the-badge&logo=github&logoColor=FF4500" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/juan-felipe-s-soares-004145331/">
-    <img src="https://img.shields.io/badge/─────%20LinkedIn%20─────-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D0000?style=for-the-badge&logo=linkedin&logoColor=FF6B6B" />
   </a>&nbsp;
   <a href="mailto:umjuan123@gmail.com">
-    <img src="https://img.shields.io/badge/─────%20Email%20─────-0D1117?style=for-the-badge&logo=gmail&logoColor=FF0080&labelColor=0D1117" />
-  </a>&nbsp;
-  <a href="https://www.youtube.com/channel/UCxA1cJWrgI87xSC8sWs2P8A">
-    <img src="https://img.shields.io/badge/─────%20YouTube%20─────-0D1117?style=for-the-badge&logo=youtube&logoColor=FF4500&labelColor=0D1117" />
-  </a>&nbsp;
-  <a href="http://axyonmarketing.com">
-    <img src="https://img.shields.io/badge/─────%20Axyon%20Marketing%20─────-0D1117?style=for-the-badge&logo=google-chrome&logoColor=FFE66D&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Email-0D0000?style=for-the-badge&logo=gmail&logoColor=FF3030" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Juvinho&label=👁️+Visualizações+do+Perfil&color=BD00FF&style=for-the-badge&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=Juvinho&label=Visualizacoes+do+Perfil&color=CC0000&style=for-the-badge&labelColor=0D0000" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Juvinho?label=Seguidores&style=for-the-badge&color=00F5FF&labelColor=0D1117&logo=github&logoColor=00F5FF" />
+  <img src="https://img.shields.io/github/followers/Juvinho?label=Seguidores&style=for-the-badge&color=FF4500&labelColor=0D0000&logo=github&logoColor=FF4500" />
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> &nbsp;Sobre Mim
+### ⚡ Sobre Mim
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" />
 
-Sou **Juan Felipe**, o **Juvinho** — um desenvolvedor que existe na interseção entre **Tecnologia** e **Arte**.
+Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos únicos. Não apenas escrevo código, mas construo narrativas e experiências. Atualmente estou focado em revolucionar a forma como interagimos online com a **Chrono**.
 
-Não apenas escrevo código; construo **experiências**, **narrativas** e produtos com **alma**.
-Acredito que o melhor software é aquele que o usuário **sente**, não só usa.
-
-Atualmente obcecado em dois projetos que vão mudar o jogo:
-
-🕒 **[Chrono](https://github.com/Juvinho/Chrono)** — Rede social que reimagina como conectamos pessoas através do tempo e dos momentos.
-
-🩺 **[DiagnostiCare](https://github.com/Juvinho/DiagnostiCare)** — IA Médica que traduz exames complexos para linguagem humana. Democratizando a saúde.
+- 🔭 Atualmente trabalhando na **[Rede Social Chrono](https://github.com/Juvinho/Chrono)** e no **[DiagnostiCare](https://github.com/Juvinho/DiagnostiCare)**.
+- 💡 Apaixonado por **IA Generativa**, **Growth Hacking** e **UX/UI**.
+- 🚀 Objetivo: Criar soluções que impactem milhões de usuários.
+- ⚡ Curiosidade: Eu transformo café em código e ideias em realidade.
 
 <br clear="all" />
 
-<table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+
+| **Frontend** | **Backend & Tools** | **Design & Marketing** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vite&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,firebase,git,github,docker,vercel&theme=dark" /> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,wordpress,analytics&theme=dark" /> |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/Juvinho">
+    <img src="https://github-readme-stats.vercel.app/api?username=Juvinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0000&title_color=FF4500&icon_color=CC0000&text_color=FF9999&ring_color=CC0000" height="180" alt="stats graph" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Juvinho">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juvinho&layout=compact&hide_border=true&bg_color=0D0000&title_color=FF4500&text_color=FF9999&langs_count=8" height="180" alt="languages graph" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juvinho&hide_border=true&background=0D0000&ring=CC0000&fire=FF4500&currStreakNum=ffffff&dates=FF9999&stroke=CC0000&currStreakLabel=FF4500&sideNums=FF6B6B&sideLabels=FF4500" width="700" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 🌟 Projetos em Destaque
+
+<table width="100%">
   <tr>
-    <td>🧠</td><td><strong>Foco atual:</strong> IA Generativa + Growth Hacking</td>
-    <td>🚀</td><td><strong>Objetivo:</strong> Impactar milhões de usuários</td>
-  </tr>
-  <tr>
-    <td>🎨</td><td><strong>Paixão:</strong> UX/UI que vicia, não cansa</td>
-    <td>☕</td><td><strong>Superpoder:</strong> Café → Código</td>
-  </tr>
-  <tr>
-    <td>🏢</td><td><strong>Empresa:</strong> <a href="http://axyonmarketing.com">Axyon Marketing</a></td>
-    <td>🌎</td><td><strong>Localização:</strong> Brasil 🇧🇷</td>
+    <td width="50%" align="center">
+      <h3>🩺 DiagnostiCare</h3>
+      <a href="https://github.com/Juvinho/DiagnostiCare">
+        <img src="https://img.freepik.com/free-vector/medical-healthcare-blue-background-with-cardiogram-line_1017-26838.jpg" width="100%" style="border-radius: 10px;" />
+      </a>
+      <br /><br />
+      <p>
+        Plataforma de <strong>IA Médica</strong> que traduz exames complexos para linguagem humana.
+        <br />
+        <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-CC0000?style=flat-square&labelColor=0D0000" />
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>⏳ Rede Social Chrono</h3>
+      <a href="https://github.com/Juvinho/Chrono">
+        <img src="https://img.freepik.com/free-vector/gradient-network-connection-background_23-2148879890.jpg" width="100%" style="border-radius: 10px;" />
+      </a>
+      <br /><br />
+      <p>
+        Uma nova forma de conectar pessoas através do <strong>tempo</strong> e <strong>momentos</strong>.
+        <br />
+        <a href="https://github.com/Juvinho/Chrono">
+          <img src="https://img.shields.io/badge/Ver_Projeto-Chrono-CC0000?style=for-the-badge&logo=github&labelColor=0D0000" />
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## ⚡ Em Andamento Agora
-
 <div align="center">
-
-| Projeto | Status | Tecnologia |
-|:---:|:---:|:---:|
-| ⏳ [Chrono](https://github.com/Juvinho/Chrono) | ![Status](https://img.shields.io/badge/🔥_Ativo-BD00FF?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| 🩺 [DiagnostiCare](https://github.com/Juvinho/DiagnostiCare) | ![Status](https://img.shields.io/badge/🔬_Em_Dev-FF0080?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| 🎮 [Coxinha Clicker](https://github.com/Juvinho/Coxinha-Clicker) | ![Status](https://img.shields.io/badge/🎉_Novo-00F5FF?style=flat-square) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 🛠️ Tech Stack & Ferramentas
-
-<div align="center">
-
-### ⚛️ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,html,css&theme=dark&perline=9" />
-
-### ⚙️ Backend & DevOps
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,git,github,docker,vercel,linux&theme=dark&perline=9" />
-
-### 🎨 Design & Marketing
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,wordpress&theme=dark&perline=9" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Juvinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BD00FF&icon_color=00F5FF&text_color=ffffff&ring_color=BD00FF"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Juvinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=BD00FF&icon_color=00F5FF&text_color=ffffff" height="180"/>
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Juvinho&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=BD00FF&text_color=ffffff&langs_count=8"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juvinho&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=BD00FF&text_color=ffffff&langs_count=8" height="180"/>
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juvinho&theme=radical&hide_border=true&background=0D1117&sideLabels=BD00FF&ring=BD00FF&fire=FF0080&currStreakNum=ffffff&dates=888888&stroke=BD00FF&currStreakLabel=00F5FF&sideNums=00F5FF" width="700" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juvinho&theme=radical&no-frame=true&row=1&column=7&margin-w=12&no-bg=true" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 📅 Gráfico de Atividades
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juvinho&bg_color=0D1117&color=BD00FF&line=00F5FF&point=FF0080&area=true&hide_border=true&area_color=1a0033" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 🌟 Projetos em Destaque
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>⏳ Rede Social Chrono</h3>
-        <a href="https://github.com/Juvinho/Chrono">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juvinho&repo=Chrono&theme=radical&hide_border=true&bg_color=0D1117&title_color=BD00FF&icon_color=00F5FF&text_color=ffffff" />
-        </a>
-        <br/><br/>
-        <p>Uma nova forma de conectar pessoas através do <strong>tempo</strong> e <strong>momentos</strong> únicos.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-          &nbsp;
-          <img src="https://img.shields.io/badge/Status-Em_Dev-BD00FF?style=flat-square"/>
-        </p>
-        <a href="https://github.com/Juvinho/Chrono">
-          <img src="https://img.shields.io/badge/Ver_Repositório_%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>🩺 DiagnostiCare</h3>
-        <a href="https://github.com/Juvinho/DiagnostiCare">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juvinho&repo=DiagnostiCare&theme=radical&hide_border=true&bg_color=0D1117&title_color=BD00FF&icon_color=00F5FF&text_color=ffffff" />
-        </a>
-        <br/><br/>
-        <p>Plataforma de <strong>IA Médica</strong> que traduz exames complexos para linguagem humana acessível.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-          &nbsp;
-          <img src="https://img.shields.io/badge/IA-Generativa-FF0080?style=flat-square"/>
-        </p>
-        <a href="https://github.com/Juvinho/DiagnostiCare">
-          <img src="https://img.shields.io/badge/Ver_Repositório_%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 🐍 Minha Cobra Comendo Contribuições
-
-> ⚠️ Ative a GitHub Action abaixo para gerar a animação da cobra!
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juvinho/Juvinho/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juvinho/Juvinho/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Juvinho/Juvinho/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60" />
-  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Juvinho&label=Visualizacoes+do+Perfil&color=CC0000&style=for-the-badge&labelColor=0D0000" alt="Juvinho" />
+  <br /><br />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" />
+  <br />
   <sub><i>"A melhor maneira de prever o futuro é criá-lo."</i></sub>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Feito_com-💜_e_☕-0D1117?style=for-the-badge&labelColor=0D1117" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:BD00FF,100:FF0080&height=180&section=footer&text=Obrigado+pela+visita!+🚀&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:CC0000,100:0D0000&height=180&section=footer&text=Obrigado+pela+visita!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=72" width="100%" />
 </div>
