@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Juvinho">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=700&color=FF3030&center=true&vCenter=true&width=820&height=55&lines=Transformando+Ideias+em+Código;Criando+a+Rede+Social+Chrono;Especialista+em+React%2C+Marketing+e+IA;Focando+em+Experiência+do+Usuário;Desenvolvedor+que+pensa+como+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=700&color=FF3030&center=true&vCenter=true&width=820&height=55&lines=Transformando+Ideias+em+C%C3%B3digo;Criando+a+Rede+Social+Chrono;Especialista+em+React%2C+Marketing+e+IA;Focando+em+Experi%C3%AAncia+do+Usu%C3%A1rio;Desenvolvedor+que+pensa+como+Designer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -132,4 +132,4 @@ Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:CC0000,100:0D0000&height=180&section=footer&text=Obrigado+pela+visita!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=72" width="100%" />
-</div>
+</d
