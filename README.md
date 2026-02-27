@@ -1,4 +1,4 @@
-﻿### Olá, eu sou o Juvinho! 👋
+### Olá, eu sou o Juvinho! 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,40:6B0000,100:FF2200&height=160&section=header&text=🔥%20JUVINHO%20🔥&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Desenvolvedor%20%7C%20Builder%20%7C%20Marketing&descSize=20&descAlignY=80&descAlign=50" width="100%" />
@@ -68,19 +68,15 @@ Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Juvinho">
-    <img src="https://github-readme-stats.vercel.app/api?username=Juvinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0000&title_color=FF4500&icon_color=CC0000&text_color=FF9999&ring_color=CC0000" height="180" alt="stats graph" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Juvinho&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800&rank_icon=github" height="180" alt="stats graph" />
   &nbsp;
-  <a href="https://github.com/Juvinho">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juvinho&layout=compact&hide_border=true&bg_color=0D0000&title_color=FF4500&text_color=FF9999&langs_count=8" height="180" alt="languages graph" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juvinho&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="languages graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juvinho&hide_border=true&background=0D0000&ring=CC0000&fire=FF4500&currStreakNum=ffffff&dates=FF9999&stroke=CC0000&currStreakLabel=FF4500&sideNums=FF6B6B&sideLabels=FF4500" width="700" />
+  <img src="https://streak-stats.demolab.com/?user=Juvinho&theme=dark&hide_border=true&ring=CC0000&fire=FF4500&currStreakLabel=FF4500" width="700" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -132,4 +128,4 @@ Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:CC0000,100:0D0000&height=180&section=footer&text=Obrigado+pela+visita!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=72" width="100%" />
-</d
+</div>
