@@ -68,14 +68,6 @@ Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juvinho&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800&rank_icon=github" height="180" alt="stats graph" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juvinho&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="languages graph" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Juvinho&theme=dark&hide_border=true&ring=CC0000&fire=FF4500&currStreakLabel=FF4500" width="700" />
 </div>
 
