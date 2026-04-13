@@ -113,7 +113,7 @@ Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos 
   <br /><br />
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" />
   <br />
-  <sub><i>"A melhor maneira de prever o futuro é criá-lo."</i></sub>
+  <sub><i>"A melhor maneira de prever o futuro é chorar e gemer no escuro, sozinho."</i></sub>
 </div>
 
 <br/>
