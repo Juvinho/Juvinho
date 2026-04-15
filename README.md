@@ -68,7 +68,7 @@ Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Juvinho&theme=dark&hide_border=true&locale=pt" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Juvinho&theme=dark&hide_border=true&locale=pt" alt="GitHub Streak" width=700 /></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
