@@ -18,7 +18,7 @@
   <a href="https://github.com/Juvinho">
     <img src="https://img.shields.io/badge/GitHub-0D0000?style=for-the-badge&logo=github&logoColor=FF4500" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/juan-felipe-s-soares-004145331/">
+  <a href="https://www.linkedin.com/in/juvinho/">
     <img src="https://img.shields.io/badge/LinkedIn-0D0000?style=for-the-badge&logo=linkedin&logoColor=FF6B6B" />
   </a>&nbsp;
   <a href="mailto:umjuan123@gmail.com">
