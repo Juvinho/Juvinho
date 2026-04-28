@@ -65,6 +65,16 @@ Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+### 🎓 Certificações
+
+<div align="center">
+  <a href="https://www.credly.com/badges/f6006999-5eb4-4748-8360-97cfad2f7c21/public_url">
+    <img src="https://images.credly.com/size/340x340/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="140" alt="ISC2 Candidate" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
