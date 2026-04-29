@@ -44,7 +44,7 @@
 
 Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos únicos. Não apenas escrevo código, mas construo narrativas e experiências. Atualmente estou focado em revolucionar a forma como interagimos online com a **Chrono**.
 
-- 🔭 Atualmente trabalhando na **[Rede Social Chrono](https://github.com/Juvinho/Chrono)** e no **[DiagnostiCare](https://github.com/Juvinho/DiagnostiCare)**.
+- 🔭 Atualmente trabalhando na **[Rede Social Chrono](https://github.com/Juvinho/Chrono)** e no **[UpperZetta](https://github.com/Juvinho/UpperZetta)**.
 - 💡 Apaixonado por **IA Generativa**, **Growth Hacking** e **UX/UI**.
 - 🚀 Objetivo: Criar soluções que impactem milhões de usuários.
 - ⚡ Curiosidade: Eu transformo café em código e ideias em realidade.
