@@ -44,7 +44,7 @@
 
 Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos únicos. Não apenas escrevo código, mas construo narrativas e experiências. Atualmente estou focado em revolucionar a forma como interagimos online com a **Chrono**.
 
-- 🔭 Atualmente trabalhando na **[Rede Social Chrono](https://github.com/Juvinho/Chrono)** e no **[DiagnostiCare](https://github.com/Juvinho/DiagnostiCare)**.
+- 🔭 Atualmente trabalhando na **[Rede Social Chrono](https://github.com/Juvinho/Chrono)** e na **[UpperZetta](https://github.com/Juvinho/UpperZetta)**.
 - 💡 Apaixonado por **IA Generativa**, **Growth Hacking** e **UX/UI**.
 - 🚀 Objetivo: Criar soluções que impactem milhões de usuários.
 - ⚡ Curiosidade: Eu transformo café em código e ideias em realidade.
@@ -88,15 +88,17 @@ Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>🩺 DiagnostiCare</h3>
-      <a href="https://github.com/Juvinho/DiagnostiCare">
-        <img src="https://img.freepik.com/free-vector/medical-healthcare-blue-background-with-cardiogram-line_1017-26838.jpg" width="100%" style="border-radius: 10px;" />
+      <h3>🧠 UpperZetta</h3>
+      <a href="https://github.com/Juvinho/UpperZetta">
+        <img src="https://cdn-blog.superprof.com/blog_pt/wp-content/uploads/2021/05/programacao-code-2-1400x933.jpg.webp" width="100%" style="border-radius: 10px;" />
       </a>
       <br /><br />
       <p>
-        Plataforma de <strong>IA Médica</strong> que traduz exames complexos para linguagem humana.
+        Criando a minha linguagem, amigavel que nem um bebê, seguro que nem um cofre.
         <br />
-        <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-CC0000?style=flat-square&labelColor=0D0000" />
+        <a href="https://github.com/Juvinho/UpperZetta">
+          <img src="https://img.shields.io/badge/Ver_Projeto-UpperZetta-CC0000?style=for-the-badge&logo=github&labelColor=0D0000" />
+        </a>
       </p>
     </td>
     <td width="50%" align="center">
