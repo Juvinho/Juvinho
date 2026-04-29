@@ -44,11 +44,7 @@
 
 Sou um desenvolvedor que une **Tecnologia** e **Marketing** para criar produtos únicos. Não apenas escrevo código, mas construo narrativas e experiências. Atualmente estou focado em revolucionar a forma como interagimos online com a **Chrono**.
 
-<<<<<<< HEAD
-- 🔭 Atualmente trabalhando na **[Rede Social Chrono](https://github.com/Juvinho/Chrono)** e na **[UpperZetta](https://github.com/Juvinho/UpperZetta)**.
-=======
 - 🔭 Atualmente trabalhando na **[Rede Social Chrono](https://github.com/Juvinho/Chrono)** e no **[UpperZetta](https://github.com/Juvinho/UpperZetta)**.
->>>>>>> 3e9a0709c5d2525b08d8fc726fc83753e0e2b1f3
 - 💡 Apaixonado por **IA Generativa**, **Growth Hacking** e **UX/UI**.
 - 🚀 Objetivo: Criar soluções que impactem milhões de usuários.
 - ⚡ Curiosidade: Eu transformo café em código e ideias em realidade.
